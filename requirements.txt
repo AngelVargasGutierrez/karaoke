@@ -4,4 +4,5 @@ tensorflow==2.10.0
 numpy==1.23.5
 Werkzeug==2.2.3
 ffmpeg-python
+numba==0.55.2
 llvmlite==0.38.1
